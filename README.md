@@ -21,6 +21,7 @@ I have not yet published it on pypi yet so install it directly from github.
 
 ```bash
 pip install git+https://github.com/ksachdeva/tiny-imagenet-tfds.git
+pip install git+https://github.com/MohammedRakib/tiny-imagenet-tfds.git
 ```
 
 ## Usage
